@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyQRCODE</string>
+    <string name="title"> QR Code Generator and Scanner</string>
+    <string name="Generate">Generate QR Code</string>
+    <string name="Scanner">Scan QR Code</string>
+    <string name="hint">Add the text here</string>
+</resources>
